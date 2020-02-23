@@ -1,5 +1,5 @@
-This project features a fully functioning coupon system that allows companies to create/update/delete their own unique coupons, 
-and also allows customers to purchase those coupons. The customers and companies are created/updated/deleted by the system’s administrator.
+This project features a fully functioning coupon system that allows companies to create/update/delete their own unique coupons, and also 
+allows customers to purchase those coupons. The customers and companies are created/updated/deleted by the system’s administrator.
 
 The project covers both the server side and the client side. 
 
@@ -26,7 +26,8 @@ company will be deleted from the coupons table and from the customer coupons tab
 company that doesn't exist.
 
 The business login is implemented through the admin/company/customer components that connect to the SQL tables 
-by executing repository functions on one side, and receive information from the user using the admin/company/customer/login controllers on the other side. 
+by executing repository functions on one side, and receive information from the user using the admin/company/customer/login controllers 
+on the other side. 
 
 A daily thread runs every 24 hours to delete coupons that are out of date (Found in the DailyTask package). 
 
