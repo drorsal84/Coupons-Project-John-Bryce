@@ -1,5 +1,5 @@
-This project features a fully functioning coupon system that allows companies to create/update/delete their own unique coupons, and also 
-allows customers to purchase those coupons. The customers and companies are created/updated/deleted by the system’s administrator.
+This project features a fully functioning coupon system that allows companies to create/update/delete their own unique coupons, 
+and also allows customers to purchase those coupons. The customers and companies are created/updated/deleted by the system’s administrator.
 
 The project covers both the server side and the client side. 
 
